@@ -6,3 +6,4 @@ In this study, daily data on the closing values of the S&P 500 Index from 03-01-
 The R file for completing these tasks is given in share_data_V6.R.
 The Python file for completing these tasks is given in Outlier rem.ipynb.
 The write-up containing tables for descriptive statistics is given in S and P 500 outlier analysis.docx
+The file containing the data used is SPIndex.xlsx.
